@@ -33,14 +33,14 @@ II. Connections:
     - RGB GND connect to Arduino GND
   3. Connecting the Keypad
     - check this website for the keypad pin configurations: https://components101.com/misc/4x4-keypad-module-pinout-configuration-features-datasheet
-    - R1 connect to 9
-    - R2 connect to 8
-    - R3 connect to 7
-    - R4 connect to 6
-    - C1 connect to 5
-    - C2 connect to 4
-    - C3 connect to 3
-    - C4 connect to 2
+    - R1 connect to Arduino 9
+    - R2 connect to Arduino 8
+    - R3 connect to Arduino 7
+    - R4 connect to Arduino 6
+    - C1 connect to Arduino 5
+    - C2 connect to Arduino 4
+    - C3 connect to Arduino 3
+    - C4 connect to Arduino 2
 
 III. How to Use the Bomb Game
   - Make sure to troubleshoot each component and adjust it according to what's wrong, and if you have newer versions of said components, ther might be some minor adjusments
